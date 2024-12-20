@@ -1,1 +1,1 @@
-# This is plain Front-end Application to understand th e3-D effects using prismic 
+# This is plain Front-end Application to understand 3-D effects using prismic 
